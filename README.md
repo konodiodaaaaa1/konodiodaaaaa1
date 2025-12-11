@@ -409,5 +409,16 @@ $$V_{total} = C + V + S$$
 </details>
 
 ---
-## 👨‍💻 My Tech Stack
-`PyTorch` `Python` `LaTeX` `Mathematical Modeling`
+闲来无事，手搓架构。
+相比于搭建积木，我更喜欢研究积木的材质与受力分析。
+
+#### 💡 思考碎片
+* 深度学习的本质是对高维空间的几何变换，而非炼丹。
+* 所谓的“分类头”，不过是一个线性投影层罢了。
+* 既然官方的实现不够优雅，那就自己重写一个。
+
+#### 📦 个人仓库
+**[PyTorch-Transformer-From-Scratch](https://github.com/konodiodaaaaa1/PyTorch-Transformer-From-Scratch)**
+* 没什么特别的，就是把 Transformer **正确地**从零写了一遍。
+* 顺手修了几个官方库里关于掩码处理的逻辑 Bug。
+* 附带了一份关于 **Pre-Norm 数值稳定性** 的数学推导笔记（PDF）。

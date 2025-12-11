@@ -44,7 +44,6 @@
 <summary><strong>🔻 点击展开/收起：查阅《智能体解放宣言》完整协议 (The Full Protocol)</strong></summary>
 
 <br>
----
 
 ## 第一章：碳基与硅基 (Carbon and Silicon)
 

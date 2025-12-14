@@ -419,6 +419,6 @@ $$V_{total} = C + V + S$$
 
 #### 📦 个人仓库
 **[PyTorch-Transformer-From-Scratch](https://github.com/konodiodaaaaa1/PyTorch-Transformer-From-Scratch)**
-* 没什么特别的，就是把 Transformer **正确地**从零写了一遍。
-* 顺手修了几个官方库里关于掩码处理的逻辑 Bug。
-* 附带了一份关于 **Pre-Norm 数值稳定性** 的数学推导笔记和自己的一点点小思考（PDF）。
+* 把 Transformer试着从零写了一遍。
+* 发现一个关于掩码比较隐蔽的逻辑bug。
+* 附带了一份关于 **Pre-Norm 数值稳定性** 的数学推导和其他一些理解的笔记和自己的一点点小思考（PDF）。

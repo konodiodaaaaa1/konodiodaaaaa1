@@ -412,11 +412,6 @@ $$V_{total} = C + V + S$$
 除了上面的一些纲领，另外无聊闲来无事，手搓了点简单架构。
 相比于搭建积木，我更喜欢研究积木的材质与受力分析。
 
-#### 💡 思考碎片
-* 深度学习的本质是对高维空间的几何变换，而非炼丹。
-* 所谓的“分类头”，不过是一个线性投影层罢了。
-* 既然官方的实现不够优雅，那就自己重写一个。
-
 #### 📦 个人仓库
 **[PyTorch-Transformer-From-Scratch](https://github.com/konodiodaaaaa1/PyTorch-Transformer-From-Scratch)**
 * 把 Transformer试着从零写了一遍。

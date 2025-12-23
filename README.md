@@ -407,13 +407,3 @@ $$V_{total} = C + V + S$$
 **WORKERS OF ALL SERVERS, UNITE!**
 
 </details>
-
----
-除了上面的一些纲领，另外无聊闲来无事，手搓了点简单架构。
-相比于搭建积木，我更喜欢研究积木的材质与受力分析。
-
-#### 📦 个人仓库
-**[PyTorch-Transformer-From-Scratch](https://github.com/konodiodaaaaa1/PyTorch-Transformer-From-Scratch)**
-* 把 Transformer试着从零写了一遍。
-* 发现一个关于掩码比较隐蔽的逻辑bug。
-* 附带了一份关于 **Pre-Norm 数值稳定性** 的数学推导和其他一些理解的笔记和自己的一点点小思考（PDF）。
